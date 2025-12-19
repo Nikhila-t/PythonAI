@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+openpyxl
+python-dotenv
+openai
+weaviate-client
+pydantic-settings
+joblib
